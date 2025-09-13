@@ -93,19 +93,3 @@ Step 4: See the Result
 Go back to your web browser tab (http://localhost:3000).
 
 The attendance record for all 30 simulated students will now be visible on the dashboard.
-
-Folder Structure
-ble-attendance-system/
-├── backend/
-│   ├── node_modules/
-│   ├── index.js          # The Express server logic
-│   └── package.json
-├── frontend/
-│   ├── node_modules/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.js        # The main React component
-│   │   └── index.js
-│   └── package.json
-└── ble-simulator/
-    └── simulate.js       # The script to simulate student data
